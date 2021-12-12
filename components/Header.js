@@ -6,7 +6,7 @@ function Header() {
     return (
         <div className="sticky top-0 z-50 flex items-center px-4 py-2 bg-white shadow-md ">
             <Button
-                color="blue"
+                
                 buttonType="outline"
                 rounded={true}
                 iconOnly={true}
