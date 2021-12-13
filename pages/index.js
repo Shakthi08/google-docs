@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from 'next/Head'
 import Header from '../components/Header'
 
 export default function Home() {
