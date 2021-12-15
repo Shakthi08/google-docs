@@ -1,5 +1,5 @@
 import Icon  from '@material-tailwind/react/Icon'
-import Head from 'next/Head'
+import Head from 'next/head'
 import { useHistory }  from 'next/dist/client/router'
 import Button from '@material-tailwind/react/Button'
 import Header from '../components/Header'
